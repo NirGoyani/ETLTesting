@@ -1,0 +1,6 @@
+Office365-REST-Python-Client==2.3.13
+openpyxl~=3.1.3
+django-environ==0.9.0
+html-testRunner
+python-dotenv~=1.0.1
+pandas~=2.2.2
